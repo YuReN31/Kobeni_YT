@@ -56,7 +56,7 @@ Se você apenas quer usar o programa, **sem modificar o código**:
 
 Se quiser estudar, modificar ou adaptar o projeto:
 
-👉 **[Download do projeto](https://download-directory.github.io/?url=https://github.com/YuReN31/Kobeni_YT/tree/main/code)**
+👉 **[Download do projeto](https://download-directory.github.io/?url=https://github.com/YuReN31/Kobeni_YT/tree/main/code){:target="_blank"}**
 
 👉 Ou se quiser clonar o repositório:
 ```bash
