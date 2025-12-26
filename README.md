@@ -48,7 +48,7 @@
 
 Se você apenas quer usar o programa, **sem modificar o código**:
 
-👉 **[Download do executável (.exe)](https://github.com/YuReN31/Kobeni_YT/raw/main/exe/Kobeni_YT_Download.zip)**
+👉 **[Download do executável (.exe)](https://github.com/YuReN31/Kobeni_YT/raw/main/assets/Kobeni_YT_Download.zip)**
 
 > Não é necessário instalar Python nem dependências.
 
