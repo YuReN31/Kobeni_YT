@@ -48,7 +48,7 @@
 
 Se você apenas quer usar o programa, **sem modificar o código**:
 
-👉 **[Download do executável (.exe)](github.com/YuReN31/Kobeni_YT/exe/)**
+👉 **[Download do executável (.exe)](exe/)**
 
 > Não é necessário instalar Python nem dependências.
 
@@ -56,7 +56,7 @@ Se você apenas quer usar o programa, **sem modificar o código**:
 
 Se quiser estudar, modificar ou adaptar o projeto:
 
-👉 **[Repositório do projeto](github.com/YuReN31/Kobeni_YT/code/)**
+👉 **[Repositório do projeto](code/)**
 
 **Passos:**
 
