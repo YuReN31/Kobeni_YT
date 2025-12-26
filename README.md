@@ -60,7 +60,7 @@ Se quiser estudar, modificar ou adaptar o projeto:
 
 **Passos:**
 
-1. Clone o repositório:
+1. Ou se quiser clonar o repositório:
 ```bash
    git clone --filter=blob:none --sparse https://github.com/YuReN31/Kobeni_YT.git
    cd Kobeni_YT
