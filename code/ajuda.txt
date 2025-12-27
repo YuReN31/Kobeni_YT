@@ -1,0 +1,65 @@
+﻿Ajuda – Configurações de Download
+
+=====================================
+
+Links gerados em paralelo
+
+Define quantos links de download serão gerados ao mesmo tempo.
+
+- Valor recomendado: 2
+- Valores altos podem causar erros como "Too Many Requests"
+- Cada link gerado corresponde a um vídeo ou áudio
+
+-------------------------------------
+
+Vídeos baixados em paralelo
+
+Define quantos vídeos podem ser baixados ao mesmo tempo.
+
+IMPORTANTE:
+O número de links gerados em paralelo não deve ser MAIOR
+ao número de vídeos baixados em paralelo.
+
+Exemplo:
+- Não faz sentido baixar 2 vídeos gerando 4 links
+
+-------------------------------------
+
+Conexões aria2c por arquivo
+
+Define quantas conexões paralelas o aria2c usará
+para baixar um único arquivo.
+
+Como funciona o download em paralelo:
+
+- Divisão do arquivo:
+  O aria2c divide um arquivo grande em várias partes menores.
+
+- Conexões simultâneas:
+  Várias conexões são abertas ao mesmo tempo com o servidor.
+
+- Download por partes:
+  Cada conexão baixa um pedaço diferente do arquivo.
+
+- Montagem final:
+  Após o download, todas as partes são unidas corretamente
+  para formar o arquivo final.
+
+-------------------------------------
+
+Isso é mais rápido?
+
+Na maioria dos casos, sim.
+
+Alguns servidores limitam a velocidade por conexão.
+Exemplo:
+- Limite: 1 MB/s por conexão
+- Download normal: até 1 MB/s
+- Download com 4 conexões: até 4 MB/s
+
+O download em paralelo aproveita melhor
+a largura de banda da sua internet.
+
+ATENÇÃO:
+Valores muito altos podem causar instabilidade
+ou bloqueios temporários.
