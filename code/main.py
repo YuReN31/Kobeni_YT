@@ -2,7 +2,6 @@ import sys
 import os
 from pathlib import Path
 
-# Ocultar console no Windows quando executado como .exe
 if sys.platform == 'win32':
     try:
         import ctypes
@@ -106,4 +105,5 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"\n✗ Erro inesperado: {e}")
         input("\nPressione ENTER para sair...")
+
         sys.exit(1)
