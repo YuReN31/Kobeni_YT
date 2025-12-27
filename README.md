@@ -50,7 +50,7 @@ Se você apenas quer usar o programa, **sem modificar o código**:
 > ⚠️ Alguns antivírus podem acusar falso positivo por ser um executável empacotado em Python.
 > O código-fonte está disponível para verificação.
 
-👉 **[Download do executável (.exe)](https://github.com/YuReN31/Kobeni_YT/raw/main/assets/Kobeni_YT_Download.zip)**
+👉 **[Download do executável (.exe)](https://drive.google.com/file/d/1JNmt36m0YFhv0_6PMa7hFEYNpuydymiy/view?usp=sharing)**
 
 > Não é necessário instalar Python nem dependências.
 
